@@ -5,4 +5,5 @@
     <color name="colorAccent">#D81B60</color>
     <color name="colorIcono">#0099CC</color>
     <color name="colorSeparador">#66CCCC</color>
+    <color name="colorFondoAlerta">#017A80</color>
 </resources>
